@@ -1,4 +1,4 @@
-# Fizz-[as](<https://en.wikipedia.org/wiki/C_(programming_language)>)-Buzz
+# Fizz-[as](https://en.wikipedia.org/wiki/GNU_Assembler)-Buzz
 
 ```console
 $ docker build . --tag gcc_boiler
